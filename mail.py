@@ -6,7 +6,7 @@ from PIL import Image, ImageTk
 import threading
 
 # Backend API Key
-API_KEY = "9be61c116a550388a3a41de7ba5899515c88a2a6"  # Put Hunter.io API key
+API_KEY = "Your_api_key_here"  
 
 def fetch_email_information(domain):
     url = f"https://api.hunter.io/v2/domain-search?domain={domain}&api_key={API_KEY}"
