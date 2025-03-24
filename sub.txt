@@ -1,0 +1,6 @@
+mail
+blog 
+emp
+www
+acc
+academy
